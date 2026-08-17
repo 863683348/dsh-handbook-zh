@@ -26,7 +26,7 @@ dsh --profile headless "你好，介绍一下你自己"
 dsh plugin --profile web add <插件名>
 ```
 
-> 详见 [docs/01-快速开始.md](docs/01-快速开始.md)
+> 详见 [docs/01-快速开始.md](docs/01-快速开始.md) ｜ 📕 **整本 PDF**：[dsh-handbook-zh.pdf](dsh-handbook-zh.pdf)（45 页，用 `python scripts/make-pdf.py` 可重新生成）
 
 ## 教程目录（docs/）
 
