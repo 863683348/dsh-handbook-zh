@@ -1,0 +1,6 @@
+# 组合补丁：把插件插进空列表
+- insert:
+    - id: hello
+      name: 'hello-plugin'
+      config:
+        greeting: '你好，DSH！'
