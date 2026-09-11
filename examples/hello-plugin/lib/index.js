@@ -23,7 +23,6 @@ function apply(ctx, config) {
       schema: {
         type: "object",
         additionalProperties: false,
-        required: true,
         properties: {
           message: { type: "string", required: true },
         },
